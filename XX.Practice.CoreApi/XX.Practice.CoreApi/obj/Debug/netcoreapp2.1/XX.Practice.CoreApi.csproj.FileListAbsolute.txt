@@ -1,0 +1,14 @@
+F:\development\Core\XX.Practice.CoreApi\XX.Practice.CoreApi\bin\Debug\netcoreapp2.1\XX.Practice.CoreApi.deps.json
+F:\development\Core\XX.Practice.CoreApi\XX.Practice.CoreApi\bin\Debug\netcoreapp2.1\XX.Practice.CoreApi.runtimeconfig.json
+F:\development\Core\XX.Practice.CoreApi\XX.Practice.CoreApi\bin\Debug\netcoreapp2.1\XX.Practice.CoreApi.runtimeconfig.dev.json
+F:\development\Core\XX.Practice.CoreApi\XX.Practice.CoreApi\bin\Debug\netcoreapp2.1\XX.Practice.CoreApi.dll
+F:\development\Core\XX.Practice.CoreApi\XX.Practice.CoreApi\obj\Debug\netcoreapp2.1\XX.Practice.CoreApi.csprojAssemblyReference.cache
+F:\development\Core\XX.Practice.CoreApi\XX.Practice.CoreApi\obj\Debug\netcoreapp2.1\XX.Practice.CoreApi.csproj.CoreCompileInputs.cache
+F:\development\Core\XX.Practice.CoreApi\XX.Practice.CoreApi\obj\Debug\netcoreapp2.1\XX.Practice.CoreApi.RazorAssemblyInfo.cache
+F:\development\Core\XX.Practice.CoreApi\XX.Practice.CoreApi\obj\Debug\netcoreapp2.1\XX.Practice.CoreApi.RazorAssemblyInfo.cs
+F:\development\Core\XX.Practice.CoreApi\XX.Practice.CoreApi\obj\Debug\netcoreapp2.1\XX.Practice.CoreApi.AssemblyInfoInputs.cache
+F:\development\Core\XX.Practice.CoreApi\XX.Practice.CoreApi\obj\Debug\netcoreapp2.1\XX.Practice.CoreApi.AssemblyInfo.cs
+F:\development\Core\XX.Practice.CoreApi\XX.Practice.CoreApi\obj\Debug\netcoreapp2.1\XX.Practice.CoreApi.RazorTargetAssemblyInfo.cache
+F:\development\Core\XX.Practice.CoreApi\XX.Practice.CoreApi\bin\Debug\netcoreapp2.1\XX.Practice.CoreApi.pdb
+F:\development\Core\XX.Practice.CoreApi\XX.Practice.CoreApi\obj\Debug\netcoreapp2.1\XX.Practice.CoreApi.dll
+F:\development\Core\XX.Practice.CoreApi\XX.Practice.CoreApi\obj\Debug\netcoreapp2.1\XX.Practice.CoreApi.pdb
